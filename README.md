@@ -6,7 +6,7 @@ Hey there! 👋 I'm Dharsan Ravichandran, a passionate Software Engineer hailing
 
 - 🎓 Acquired expertise in software engineering methodologies and best practices through rigorous academic training at SLIIT.
 - 🌟 Over four years of leadership experience at SLIIT, honing skills in problem-solving, time management, and analytics.
-- 💻 Proficient in Java, Springboot, MERN Stack (MonggoDB, ExpressJS, ReactJS, NodeJS), C#, Python, SQL, and NoSQL.
+- 💻 Proficient in Java, Springboot, MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS), C#, Python, SQL, and NoSQL.
 - 🚀 Always eager to learn and grow in the ever-evolving tech landscape.
 
 ## Tech Stack
