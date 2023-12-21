@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! 👋 I'm Dharsan Ravichandran, a passionate Software Engineer hailing from the beautiful island of Sri Lanka. I bring a blend of strong academic prowess from my time at SLIIT and hands-on industry experience. With a foundation built on leadership, problem-solving, and a knack for web development, I am dedicated to delivering excellence and value in every project I undertake.
+Hey there! 👋 I'm Dharsan Ravichandran, a passionate Software Engineer hailing from the beautiful island of Sri Lanka "LK". I bring a blend of strong academic prowess from my time at SLIIT and hands-on industry experience. With a foundation built on leadership, problem-solving, and a knack for web development, I am dedicated to delivering excellence and value in every project I undertake.
 
 - 🎓 Acquired expertise in software engineering methodologies and best practices through rigorous academic training at SLIIT.
 - 🌟 Over four years of leadership experience at SLIIT, honing skills in problem-solving, time management, and analytics.
